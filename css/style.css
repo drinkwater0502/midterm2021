@@ -5,12 +5,11 @@ body {
   color: #3a3846;
 }
 
-nav {
-  position: -webkit-sticky;
-  position: sticky;
+.navbar {
   margin: 0px;
   padding: 0px;
-  top: 20px;
+  position: sticky;
+  top: 0px;
 }
 
 .ulnavbar {
